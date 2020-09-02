@@ -14,10 +14,11 @@
 	<name>openshift-s2i-deploy</name>
 	<description>Demo project for Spring Boot</description>
 
+	<!--
 	<properties>
 		<java.version>11</java.version>
 	</properties>
-
+        -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
